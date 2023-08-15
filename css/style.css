@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  background-color: #191919 ;
+  color: black;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: large;
+
+}
+
+h1 {
+  text-align: center;
+  color: darkslategrey;
+}
+
+.container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  padding: 30px;
+  border-radius: 50px;
+}
+p{
+  margin: 30px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  padding: 10px 15px;
+  outline: none;
+  width: auto;
+  margin: 10px;
+  border-radius: 5px;
+
+}
+
